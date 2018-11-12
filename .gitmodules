@@ -1,0 +1,6 @@
+[submodule "tools/moses-scripts"]
+	path = tools/moses-scripts
+	url = https://github.com/amunmt/moses-scripts
+[submodule "tools/sacreBLEU"]
+	path = tools/sacreBLEU
+	url = https://github.com/mjpost/sacreBLEU
